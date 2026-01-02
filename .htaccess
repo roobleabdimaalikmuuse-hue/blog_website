@@ -1,0 +1,3 @@
+# Simple Redirect
+# If this causes 500 error, please delete this file content
+DirectoryIndex index.php
